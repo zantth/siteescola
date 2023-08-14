@@ -1,6 +1,6 @@
 .cabecalho {
     background-color: #424E61;
-    color: white;
+    color: rgb(218, 43, 43);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -11,8 +11,8 @@
     width: 20%;
 }
 .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #1a35e7;
+    color: rgb(250, 247, 247);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -29,4 +29,19 @@
 }
 .escola-imagem{
     width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
